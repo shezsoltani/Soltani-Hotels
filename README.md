@@ -5,7 +5,6 @@ Eine kleine Full-Stack Webanwendung rund um Hotelzimmer & Reservierungen – mit
 ## Schnellstart (Docker)
 
 ```bash
-cp .env.example .env
 docker compose up -d --build
 ```
 
